@@ -10,13 +10,13 @@
 |P1   |基板用マイクロUSBコネクタ（電源専用）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
 |P2   |ピンソケットなど自由に|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |R1, R6, R7|抵抗器 100kΩ|3|[秋月電子](https://akizukidenshi.com/catalog/g/gR-25104/)|
-|R2, R3, R4, R8, R9|抵抗器 51kΩ|3|[秋月電子](https://akizukidenshi.com/catalog/g/gR-25513/)|
+|R2, R3, R4, R8, R9|抵抗器 51kΩ|5|[秋月電子](https://akizukidenshi.com/catalog/g/gR-25513/)|
 |R5|抵抗器 10kΩ|1|[秋月電子](https://akizukidenshi.com/catalog/g/gR-25103/)|
 |RV1|抵抗器 100kΩ|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-06113/)|
 |C1|セラミックコンデンサ 470pF|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-08130/)|
 |Q1|2SC1815（NPNトランジスタ）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gI-17089/)|
-|IC1, IC2|ICソケット2x4|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-00017/)|
-|IC1, IC2|NJU7043D|1|[秋月電子](https://akizukidenshi.com/catalog/g/gI-06840/)|
+|IC1, IC2|ICソケット2x4|2|[秋月電子](https://akizukidenshi.com/catalog/g/gP-00017/)|
+|IC1, IC2|NJU7043D|2|[秋月電子](https://akizukidenshi.com/catalog/g/gI-06840/)|
 |SW1|SS12D01G4（1回路2接点スライドスイッチ）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-12723/)|
 |J1|スイッチ付きオーディオジャック|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-02384/)|
 |J2|MJ-352W-O（オーディオジャック）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-08958/)|
