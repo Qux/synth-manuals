@@ -37,7 +37,6 @@
 
 ## 応用編
 `Send Return`と組み合わせると、ディレイをかける前後の音を混ぜることができたり、エコーがかかった音を出したりできます。
-{: align="center"}
 ![回路図](img/delay_sr_img.jpg)
 
 ### Caution
