@@ -2,15 +2,25 @@
 電圧で制御する基板に CV 電圧を与える基板です。 8 つのボタンと出力電圧を設定するためのつまみ、 ポルタメント、CV/GATE 出力を搭載しています。
 
 ## 回路図
-![回路図](https://blog.qux-jp.com/wp-content/uploads/2018/08/cropped-cropped-qux_logo_3_c-1.png)
+![回路図](https://github.com/Qux/schematics/raw/master/keyboard/keyboard.svg)
 
 ## 部品
 |記号|名前|数量|備考|
 | :--- |:-----------:|-------:|-------:|
 |P1|基板用マイクロUSBコネクタ（電源専用）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
 |P2|ピンソケットなど自由に|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
-|R1|10kΩ抵抗|1|[秋月電子](https://akizukidenshi.com/)|
-
+|CON1|L字型ピンソケット 1x6|1|[秋月電子](https://akizukidenshi.com/)|
+|CON2|L字型ピンヘッダ 1x6|1|[秋月電子](https://akizukidenshi.com/)|
+|R1~8, R11|抵抗器 10kΩ|1|[秋月電子](https://akizukidenshi.com/)|
+|R9|抵抗器 1MΩ|1|[秋月電子](https://akizukidenshi.com/)|
+|R10|抵抗器 1kΩ|1|[秋月電子](https://akizukidenshi.com/)|
+|RV1-9|可変抵抗器 100kΩ|1|[秋月電子](https://akizukidenshi.com/)|
+|C1|電解コンデンサ 4.7μF|1|[秋月電子](https://akizukidenshi.com/)|
+|Q1-8|NPN トランジスタ 2SC1815|1|[秋月電子](https://akizukidenshi.com/)|
+|SW1-8|タクトスイッチ|1|[秋月電子](https://akizukidenshi.com/)|
+|IC1-5|オペアンプ NJU7043D, ICソケット 2x4|1|[秋月電子](https://akizukidenshi.com/)|
+|IC6,7|4回路OR TC74HC32AP, ICソケット 2x7|1|[秋月電子](https://akizukidenshi.com/)|
+|J1,2|オーディオジャック MJ-352W-O|1|[秋月電子](https://akizukidenshi.com/)|
 
 ## 仕様
 各つまみで出力電圧を設定し、つまみの真下にあるスイッチ を押している間設定した電圧を CV OUT から出力します。
