@@ -10,18 +10,18 @@
 |C1|セラミックコンデンサ0.001uF|1|[秋月電子](https://akizukidenshi.com/)|
 |C2|電解コンデンサ47uF|1|[秋月電子](https://akizukidenshi.com/)|
 |D1-4|ダイオード1N914|4|[秋月電子](https://akizukidenshi.com/)|
-|D5|LED|4|Vfが1.8V~4.0Vの範囲内にあるものを使用してください。[秋月電子](https://akizukidenshi.com/catalog/g/gI-09851/)|
+|D5|LED|1|Vfが1.8V~4.0Vの範囲内にあるものを使用してください。[秋月電子](https://akizukidenshi.com/catalog/g/gI-09851/)|
 |IC1|タイマーIC NE555|1|[秋月電子](https://akizukidenshi.com/)|
 |J1|スイッチ付きオーディオジャック|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-02384/)|
 |J2|オーディオジャック|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-08958/)|
-|Q1-3, 5|NPNトランジスタ 2SC1815|1|[秋月電子](https://akizukidenshi.com/)|
+|Q1-3, 5|NPNトランジスタ 2SC1815|4|[秋月電子](https://akizukidenshi.com/)|
 |Q4|PNPトランジスタ 2SA1015|1|[秋月電子](https://akizukidenshi.com/)|
-|R1, 2, 7, 10|抵抗器10kΩ(茶黒橙金)|1|[秋月電子](https://akizukidenshi.com/)|
-|R3, 4, 6, 8|抵抗器2.2kΩ(赤赤赤金)|1|[秋月電子](https://akizukidenshi.com/)|
+|R1, 2, 7, 10|抵抗器10kΩ(茶黒橙金)|4|[秋月電子](https://akizukidenshi.com/)|
+|R3, 4, 6, 8|抵抗器2.2kΩ(赤赤赤金)|4|[秋月電子](https://akizukidenshi.com/)|
 |R5|抵抗器47kΩ(黄紫橙金)|1|[秋月電子](https://akizukidenshi.com/)|
 |R9|抵抗器4.7kΩ(黄紫赤金)|1|[秋月電子](https://akizukidenshi.com/)|
-|R11, 12|抵抗器1kΩ(茶黒赤金)|1|[秋月電子](https://akizukidenshi.com/)|
-|RV1-4|可変抵抗器10kΩ Aカーブ RK09D|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-14773/)|
+|R11, 12|抵抗器1kΩ(茶黒赤金)|2|[秋月電子](https://akizukidenshi.com/)|
+|RV1-4|可変抵抗器10kΩ Aカーブ RK09D|4|[秋月電子](https://akizukidenshi.com/catalog/g/gP-14773/)|
 |SW1|タクトスイッチ|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-03648/)|
 
 
