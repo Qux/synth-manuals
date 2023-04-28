@@ -2,7 +2,7 @@
 矩形波を出すオシレータです。左のつまみで周波数、右のつまみで音量を変えられます。スマートフォンの充電器とイヤホンだけで気軽に楽しめます。
 
 ## 回路図
-![回路図](https://blog.qux-jp.com/wp-content/uploads/2018/08/cropped-cropped-qux_logo_3_c-1.png)
+![回路図](https://github.com/Qux/schematics/raw/master/osc_sqr/osc_sqr.svg)
 
 ## 部品
 |記号|名前|数量|備考|
