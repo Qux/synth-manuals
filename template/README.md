@@ -3,9 +3,11 @@
 回路図を貼る
 
 ## 部品
-| 記号|名前|数量|備考|
+|記号|名前|数量|備考|
 | :--- |:-----------:|-------:|-------:|
-| R1   |10kΩ抵抗      |       1|[秋月電子](https://akizukidenshi.com/)|
+|P1|基板用マイクロUSBコネクタ（電源専用）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
+|P2|ピンソケットなど自由に|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
+|R1|10kΩ抵抗|1|[秋月電子](https://akizukidenshi.com/)|
 
 
 ## 使い方
