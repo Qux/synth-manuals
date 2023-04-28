@@ -7,6 +7,10 @@ Quxの基板セットに付属するマニュアルです。
 
 ## contents
 
+### adsr
+ADSR
+https://blog.qux-jp.com/2022/09/1081
+
 ### osc_sqr
 矩形波オシレータ
 https://blog.qux-jp.com/2018/05/?p=230
