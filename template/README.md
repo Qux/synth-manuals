@@ -1,6 +1,6 @@
 # template
 ## 回路図
-回路図を貼る
+![回路図](https://blog.qux-jp.com/wp-content/uploads/2018/08/cropped-cropped-qux_logo_3_c-1.png)
 
 ## 部品
 |記号|名前|数量|備考|
