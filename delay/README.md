@@ -20,7 +20,7 @@
 |RV1|可変抵抗器 200kΩ 204|1|[秋月電子](https://akizukidenshi.com/)|
 |RV2|可変抵抗器 50kΩ 503|1|[秋月電子](https://akizukidenshi.com/)|
 |C1, 3, 9, 11, 16|電解コンデンサ 3.3μF|1|[秋月電子](https://akizukidenshi.com/)|
-|C2, 5~6, 12~14|積層セラミックコンデンサ 2200pF (222)|1|[秋月電子](https://akizukidenshi.com/)|
+|C2, 5-6, 12-14|積層セラミックコンデンサ 2200pF (222)|1|[秋月電子](https://akizukidenshi.com/)|
 |C4, 7, 8, 15|積層セラミックコンデンサ 220pF (221)|1|[秋月電子](https://akizukidenshi.com/)|
 |C10|電解コンデンサ 22uF|1|[秋月電子](https://akizukidenshi.com/)|
 |IC1, 4|NJU7043D(オペアンプ)  ICソケット4x2|1|[秋月電子](https://akizukidenshi.com/)|
