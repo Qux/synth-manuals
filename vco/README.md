@@ -5,7 +5,7 @@
 
 ## 部品
 |記号|名前|数量|備考|
-|:--- |:-----------:|-------:|-------:|
+|---|-----------|-------|-------|
 |P1   |基板用マイクロUSBコネクタ（電源専用）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
 |P2   |ピンソケットなど自由に|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |R1, R6, R7|抵抗器 100kΩ|3|[秋月電子](https://akizukidenshi.com/catalog/g/gR-25104/)|

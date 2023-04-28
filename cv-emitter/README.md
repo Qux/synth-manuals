@@ -5,7 +5,7 @@
 
 ## 部品
 | 記号|名前|数量|備考|
-| :--- |:-----------:|-------:|-------:|
+|---|-----------|-------|-------|
 | P1      | 基板用マイクロUSBコネクタ MRUSB-2B-D14NI-S306     |       1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
 | P2      | ピンソケットなど自由に     |       1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 | R1, 2   | 抵抗器1kΩ[茶黒赤金]       |       2|[秋月電子](https://akizukidenshi.com/catalog/g/gR-25102/)|
