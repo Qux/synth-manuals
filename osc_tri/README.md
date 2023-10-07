@@ -19,7 +19,7 @@
 |C1|セラミックコンデンサ0.15uF|1|[秋月電子](https://akizukidenshi.com/)|
 |IC1|6回路シュミットトリガインバータ SN74HC14N, IC ソケット 2x7|1|[秋月電子](https://akizukidenshi.com/)|
 |IC2|オペアンプ NJU7043D, IC ソケット 2x4|1|[秋月電子](https://akizukidenshi.com/)|
-|Audio Jack|オペアンプ NJU7043D, IC ソケット 2x4|1|[秋月電子](https://akizukidenshi.com/)|
+|Audio Jack|MJ-352W-O|1|[秋月電子](https://akizukidenshi.com/)|
 
 ## 使い方
 - `Vol`つまみを一番左に回し、イヤホンやスピーカーを`Audio Jack` に刺します。その後、スマートフォンの充電器などとUSBケーブルで電源を繋ぎます。
