@@ -10,13 +10,13 @@
 |P1|基板用マイクロUSBコネクタ（電源専用）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
 |P2|ピンソケットなど自由に|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |R1-5, 8, 11, 12, 15-17|抵抗10kΩ (茶黒橙金)|11|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
-|R6,7|抵抗100kΩ (茶黒黄金)||[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
+|R6,7|抵抗100kΩ (茶黒黄金)|2|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |R9,10|抵抗4.7kΩ (茶黒黄金)|2|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |R13,14|抵抗47kΩ (茶黒橙金)|2|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |RV1,2|可変抵抗50kΩ (503)|2|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |C1,3-5|電解コンデンサ 3.3μF|4|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |C2|フィルムコンデンサ 0.1μF (104)|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
-|IC1-4|フィルムコンデNJU7043(オペアンプ) ICソケット4x2|4|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
+|IC1-4|NJU7043(オペアンプ) ICソケット4x2|4|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |J1-4|オーディオジャック MJ-352-O|4|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 
 
