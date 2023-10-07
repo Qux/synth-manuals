@@ -1,4 +1,4 @@
-# template
+# ADSR
 ## 回路図
 ![回路図](https://github.com/Qux/schematics/blob/master/adsr/adsr.svg)
 

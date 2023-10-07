@@ -20,7 +20,7 @@
 |SW1, 2|2回路2接点スライドスイッチ IS-2235|2|[秋月電子](https://akizukidenshi.com/)|
 |U1, 2|アナログフォトカプラ LCR0202|2|[秋月電子](https://akizukidenshi.com/)|
 |J1, 3|オーディオジャック MJ-352W-O|2|[秋月電子](https://akizukidenshi.com/)|
-|J2|スイッチ付オーディオジャック PJ324M|2|[秋月電子](https://akizukidenshi.com/)|
+|J2|スイッチ付オーディオジャック PJ324M|1|[秋月電子](https://akizukidenshi.com/)|
 
 ## 使い方
 - 5VのUSBハブなどで電源を接続します。
