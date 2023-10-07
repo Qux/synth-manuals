@@ -11,16 +11,16 @@
 |P2|ピンソケットなど自由に|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |CON1|L字型ピンソケット 1x6|1|[秋月電子](https://akizukidenshi.com/)|
 |CON2|L字型ピンヘッダ 1x6|1|[秋月電子](https://akizukidenshi.com/)|
-|R1~8, R11|抵抗器 10kΩ|1|[秋月電子](https://akizukidenshi.com/)|
+|R1~8, R11|抵抗器 10kΩ|9|[秋月電子](https://akizukidenshi.com/)|
 |R9|抵抗器 1MΩ|1|[秋月電子](https://akizukidenshi.com/)|
 |R10|抵抗器 1kΩ|1|[秋月電子](https://akizukidenshi.com/)|
-|RV1-9|可変抵抗器 100kΩ|1|[秋月電子](https://akizukidenshi.com/)|
+|RV1-9|可変抵抗器 100kΩ|9|[秋月電子](https://akizukidenshi.com/)|
 |C1|電解コンデンサ 4.7μF|1|[秋月電子](https://akizukidenshi.com/)|
-|Q1-8|NPN トランジスタ 2SC1815|1|[秋月電子](https://akizukidenshi.com/)|
-|SW1-8|タクトスイッチ|1|[秋月電子](https://akizukidenshi.com/)|
-|IC1-5|オペアンプ NJU7043D, ICソケット 2x4|1|[秋月電子](https://akizukidenshi.com/)|
-|IC6,7|4回路OR TC74HC32AP, ICソケット 2x7|1|[秋月電子](https://akizukidenshi.com/)|
-|J1,2|オーディオジャック MJ-352W-O|1|[秋月電子](https://akizukidenshi.com/)|
+|Q1-8|NPN トランジスタ 2SC1815|8|[秋月電子](https://akizukidenshi.com/)|
+|SW1-8|タクトスイッチ|8|[秋月電子](https://akizukidenshi.com/)|
+|IC1-5|オペアンプ NJU7043D, ICソケット 2x4|5|[秋月電子](https://akizukidenshi.com/)|
+|IC6,7|4回路OR TC74HC32AP, ICソケット 2x7|2|[秋月電子](https://akizukidenshi.com/)|
+|J1,2|オーディオジャック MJ-352W-O|2|[秋月電子](https://akizukidenshi.com/)|
 
 ## 仕様
 各つまみで出力電圧を設定し、つまみの真下にあるスイッチを押している間設定した電圧を`CV OUT`から出力します。
