@@ -2,7 +2,7 @@
 小さいキーボードです。つまみの位置に応じたCVとボタンのON/OFFに合わせたGateが出せます。
 
 ## 回路図
-![回路図](https://github.com/Qux/schematics/raw/master/osc_sqr/osc_sqr.svg)
+![回路図](./minikey.svg)
 
 ## 部品
 |記号|名前|数量|備考|
