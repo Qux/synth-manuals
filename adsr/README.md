@@ -10,7 +10,7 @@
 |C1|セラミックコンデンサ0.001uF|1|[秋月電子](https://akizukidenshi.com/)|
 |C2|電解コンデンサ47uF|1|[秋月電子](https://akizukidenshi.com/)|
 |D1-4|ダイオード1N914|4|[秋月電子](https://akizukidenshi.com/)|
-|D5|LED|1|Vfが1.8V~4.0Vの範囲内にあるものを使用してください。[秋月電子](https://akizukidenshi.com/catalog/g/gI-09851/)|
+|D5|LED|1|[秋月電子](https://akizukidenshi.com/catalog/g/gI-09851/) <br>※Vfが1.8V~4.0Vの範囲内にあるものを使用してください。<br>※向きにご注意ください（下記、注意事項を参照ください）。|
 |IC1|タイマーIC NE555|1|[秋月電子](https://akizukidenshi.com/)|
 |J1|スイッチ付きオーディオジャック|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-02384/)|
 |J2|オーディオジャック|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-08958/)|
@@ -54,7 +54,10 @@ GATEにLFOの矩形波を入れることもできます。
 その他いろいろ活用方法があります。基本的な動作が理解できたら挑戦してみてください。
 
 ## 注意事項
-ボタンを押している間、DC電圧が出続けます。DC電圧をかけてはいけないところに接続しないように注意してください。
+1. ボタンを押している間、DC電圧が出続けます。DC電圧をかけてはいけないところに接続しないように注意してください。
+
+2. LEDの向きにご注意ください。<br>
+   * 基板の右側（丸いランド）がアノード(+)、左側（四角いランド）がカソード(-)です。
 
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>の下に提供されています。
