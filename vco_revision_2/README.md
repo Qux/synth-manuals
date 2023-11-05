@@ -14,8 +14,8 @@
 |P101|基板用マイクロUSBコネクタ（電源専用）|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
 |P102|ピンソケットなど自由に|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10097/)|
 |P103,P104|XHコネクタ ベース付ポスト サイド型|2|[秋月電子](https://akizukidenshi.com/catalog/g/gC-12262/)|
-|C101|セラミックコンデンサ 0.01uF|1|[秋月電子](https://akizukidenshi.com/catalog/g/gC-10398/)|
-|C102|電解コンデンサ 47uF|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-04627/)|
+|C101|セラミックコンデンサ 470pF|1||
+|C102|電解コンデンサ 4.7uF|1|[秋月電子](https://akizukidenshi.com/catalog/g/gP-15098/)|
 |IC101, IC102|ICソケット2x4|2|[秋月電子](https://akizukidenshi.com/catalog/g/gP-00017/)|
 |IC101, IC102|NJU7043D|2|[秋月電子](https://akizukidenshi.com/catalog/g/gI-06840/)|
 |J101|PJ324M (スイッチ付きオーディオジャック)|1|[マルツ](https://www.marutsu.co.jp/pc/i/46705/)|
