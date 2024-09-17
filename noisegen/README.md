@@ -1,7 +1,7 @@
 # NoiseGen
 ## 回路図
-![回路図](https://github.com/Qux/schematics/blob/master/noisegen/noisegen.csv)
-![DCDC Converterの回路図](https://github.com/Qux/schematics/blob/master/noisegen/noisegen.csv)
+![回路図](https://github.com/Qux/schematics/blob/master/noisegen/noisegen.svg)
+![DCDC Converterの回路図](https://github.com/Qux/schematics/blob/master/noisegen/noisegen-DCDC%20Converter.svg)
 
 ## 部品
 |記号|名前|数量|備考|
