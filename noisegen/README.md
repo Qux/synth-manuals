@@ -7,7 +7,7 @@
 |記号|名前|数量|備考|
 |---|-----------|-------|-------|
 |C1|セラミックコンデンサ 0.1u|1|[秋月電子](https://akizukidenshi.com/catalog/g/g113582/)|
-|C2, C3, C5|電解コンデンサ 10u|3|無極性<br>[秋月電子](https://akizukidenshi.com/catalog/g/g104621/)|
+|C2, C3, C5|電解コンデンサ 10u|3|無極性<br>[秋月電子](https://akizukidenshi.com/catalog/g/g115102/)|
 |C4|セラミックコンデンサ 2200p|1|[秋月電子](https://akizukidenshi.com/catalog/g/g112060/)|
 |C6|チップコンデンサ 10u|1|実装済み|
 |C7|チップコンデンサ 680p|1|実装済み|
